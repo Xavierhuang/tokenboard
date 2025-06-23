@@ -1,0 +1,19 @@
+[
+  {
+    "pool_name": "Janus Henderson Anemoy Treasury Fund",
+    "link": "https://app.centrifuge.io//pools/4139607887#/pools/4139607887",
+    "details": {
+      "APY": "4.09%",
+      "Min. investment": "$500K"
+    }
+  },
+  {
+    "pool_name": "New Silver Series 2",
+    "link": "https://app.centrifuge.io//pools/0x53b2d22d07E069a3b132BfeaaD275b10273d381E#/pools/0x53b2d22d07E069a3b132BfeaaD275b10273d381E",
+    "details": {
+      "Tranche": "Senior",
+      "APY": "7%",
+      "Min. investment": "5K"
+    }
+  }
+]

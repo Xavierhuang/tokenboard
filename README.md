@@ -126,3 +126,19 @@ MIT License - see LICENSE file for details
 ## Support
 
 For support and questions, please open an issue on GitHub or contact the development team. # tokenboard
+
+## .gitignore
+
+To prevent `node_modules` and other unnecessary files from being tracked by git, create a `.gitignore` file with the following lines:
+
+```
+node_modules/
+.env
+.next/
+.DS_Store
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+coverage/
+dist/
+```

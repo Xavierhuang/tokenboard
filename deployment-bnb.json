@@ -1,0 +1,11 @@
+{
+  "network": "BSC",
+  "deployer": "0x073F9866fA39E873A13F1D211b38bB42A653955e",
+  "factoryAddress": "0x6CF87d015a0FE2050c1086031262e1B7032E4F4C",
+  "deploymentTime": "2025-06-23T21:00:40.811Z",
+  "contracts": {
+    "CrowdfundFactory": "0x6CF87d015a0FE2050c1086031262e1B7032E4F4C",
+    "Campaign": "Will be deployed per campaign",
+    "ProjectToken": "Will be deployed per campaign"
+  }
+}

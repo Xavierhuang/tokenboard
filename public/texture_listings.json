@@ -1,0 +1,101 @@
+[
+  {
+    "title": "GxP Collective",
+    "link": "https://www.investgxp.com/",
+    "image_url": "/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDhIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8d7243501a4b2ff8a9407d0d071771ccce6dec02/GXP%20image.jpg",
+    "closing": "Closes Dec 31, 2025",
+    "details_left": "Funding Target: $5 m Industry: Real Estate Offering Type: Reg CF",
+    "details_right": "Closing Date: Dec 31, 2025 Asset Type: Min Invest: $2,500",
+    "footer": "PRIMARY"
+  },
+  {
+    "title": "House Hack Inc.",
+    "link": "https://www.househack.com/",
+    "image_url": "/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGdIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--63b72484e6b2e02003bb25c2b24d9d9c8f26c4b8/househack%20tile.jpg",
+    "closing": "Closes Dec 31, 2025",
+    "details_left": "Funding Target: $75 m Industry: Real Estate Offering Type: Reg A+",
+    "details_right": "Closing Date: Dec 31, 2025 Asset Type: Bond Min Invest: $20,000",
+    "footer": "PRIMARY"
+  },
+  {
+    "title": "Neptune Shield",
+    "link": "/listings/60fdf5ba-7437-46eb-b9e0-35c907b3058d",
+    "image_url": "/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaE1IIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bc261201e761051ddd2a2cb5c23a220c6abc6e25/Untitled%207.png",
+    "closing": "Closes Feb 04, 2026",
+    "details_left": "Funding Target: $5 m Industry: National Security Offering Type: 506(c)",
+    "details_right": "Closing Date: Feb 04, 2026 Asset Type: Equity Min Invest: N/A",
+    "footer": "PRIMARY"
+  },
+  {
+    "title": "Vision 87 Champfleury",
+    "link": "/listings/40668acc-0cc4-4b42-9682-50f0d088ffa5",
+    "image_url": "/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczBHIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a587a149b7ba4decc7b08340dea473c781a8099d/champfleury.png",
+    "closing": "Closes Oct 01, 2025",
+    "details_left": "Funding Target: $23 m Min Invest: $10,000 Issue Price: $1.00",
+    "details_right": "Closing Date: Oct 01, 2025 Industry: Real Estate Offering Type: 506(c)",
+    "footer": "PRIMARY"
+  },
+  {
+    "title": "Vita Opportunity Fund",
+    "link": "/listings/133073e4-181d-41ba-b9e2-58f75eb75395",
+    "image_url": "/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBajRHIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a63649810eae4742e3fa7a329334e0cfa5f81286/vitalogo2.png",
+    "closing": "Closes Dec 31, 2025",
+    "details_left": "Funding Target: $10 m Min Invest: $15,000 Asset Type: Fund",
+    "details_right": "Closing Date: Dec 31, 2025 Industry: Real Estate Issue Price: $1.00",
+    "footer": "PRIMARY"
+  },
+  {
+    "title": "Genesis Phase One",
+    "link": "/listings/c2eb0be1-5da8-4dd3-9a7f-62a73a8a4571",
+    "image_url": "/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXNHIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b7c28150b687d2c0c4f0006f57c7e7b8c9c839aa/genesis%20banner.png",
+    "closing": "Closes Dec 01, 2025",
+    "details_left": "Funding Target: $10.4 m Min Invest: $50,000 Asset Type: Equity",
+    "details_right": "Offering Type: 506(c) Industry: Bitcoin mining Closing Date: Dec 01, 2025",
+    "footer": "PRIMARY"
+  },
+  {
+    "title": "Sparq",
+    "link": "/listings/60a6d86e-bf83-4428-9016-10f13611be3a",
+    "image_url": "/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBandHIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--537594a7877bbf3115bd6f63baa8a498b43dcf95/sparq%20banner.png",
+    "closing": "Closes Jul 01, 2025",
+    "details_left": "Funding Target: $200 m Min Invest: $50,000 Asset Type: Equity",
+    "details_right": "Offering Type: 506(c) Industry: Infrastructure Closing Date: Jul 01, 2025",
+    "footer": "PRIMARY"
+  },
+  {
+    "title": "PRC Equity Fund",
+    "link": "/listings/c0fbdfcb-f846-4a53-b6d0-de18a8823a89",
+    "image_url": "/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBamNHIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a431718ad3bfafcf104bd213191e7d92741eaba8/PRC%20image2%20copy.png",
+    "closing": "Closes Oct 15, 2025",
+    "details_left": "Funding Target: $75 m Min Invest: $5,000 Asset Type: Equity",
+    "details_right": "Offering Type: Reg A Industry: Real Estate Closing Date: Oct 15, 2025",
+    "footer": "PRIMARY"
+  },
+  {
+    "title": "Magno Fibers",
+    "link": "/listings/bd430d7c-a1a5-48f2-9e5c-b673869626f1",
+    "image_url": "/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3dGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c9556c7aaa12978958a353cafa44bfa0bdee88fa/MAGNO%20F%20IMAGE%202.png",
+    "closing": "Closes Sep 30, 2025",
+    "details_left": "Industry: Min Investment: $250,000 Pre-Money Value: $",
+    "details_right": "Raised: $0 Offering Type: 506(c)",
+    "footer": "PRIMARY"
+  },
+  {
+    "title": "Solaris Renewable",
+    "link": "https://pluralofferings.xyz/app/asset/Solaris%20Renewable%20Equity%20A/offerings/Ace%20Portfolio/",
+    "image_url": "/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbXNFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--54180847f9e1205116b85e0bf2cbc197b18ed2c8/Solaris%20ACE.png",
+    "closing": "Closes Nov 14, 2024",
+    "details_left": "Funding Target: $900 k Offering Type: Reg CF Industry: Energy",
+    "details_right": "Min Invest: $500 Issue Price: $10.00 Asset Type: Class B Units",
+    "footer": "PRIMARY"
+  },
+  {
+    "title": "RevTech Capital Fund II",
+    "link": "/listings/8939d753-d9c9-4dcb-a4ca-161b40e7e095",
+    "image_url": "/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdUFEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e2ffd13f75946704b05dfb131b6e00b3fa144b7f/RevTech.jpg",
+    "closing": "Closes Mar 01, 2025",
+    "details_left": "Funding Target: $30 m Offering Type: Reg D Industry: FinTech",
+    "details_right": "Asset Type: Fund Closing Date: Mar 01, 2025 Min Invest: $250,000",
+    "footer": "PRIMARY"
+  }
+]
